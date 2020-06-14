@@ -1,0 +1,11 @@
+[30-May-2019 12:54:41 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/alphafbm/public_html/Jalak_Jewels/application/views/Masters/customers/add.php on line 455
+[11-Jun-2019 08:32:56 Etc/GMT] PHP Fatal error:  Cannot redeclare Finish::edit() in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Finish.php on line 103
+[11-Jun-2019 09:58:17 Etc/GMT] PHP Fatal error:  Cannot redeclare Rhodium::add() in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Rhodium.php on line 65
+[11-Jun-2019 10:05:34 Etc/GMT] PHP Fatal error:  Cannot redeclare Rhodium::add() in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Rhodium.php on line 65
+[22-Jul-2019 06:21:44 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Order.php on line 277
+[24-Jul-2019 12:40:09 Etc/GMT] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Order.php on line 239
+[24-Jul-2019 12:46:21 Etc/GMT] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/alphafbm/public_html/Jalak_Jewels/application/controllers/Order.php on line 240
+[29-Jul-2019 09:41:49 Etc/GMT] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/alphafbm/public_html/Jalak_Jewels/system/libraries/Session/drivers/Session_files_driver.php on line 217
+[05-Aug-2019 11:01:35 Etc/GMT] PHP Fatal error:  Cannot redeclare Order_model::get_customers() in /home/alphafbm/public_html/Jalak_Jewels/application/models/Order_model.php on line 60
+[31-Aug-2019 09:38:53 Etc/GMT] PHP Fatal error:  Cannot redeclare Order_model::get_current_balance() in /home/alphafbm/public_html/Jalak_Jewels/application/models/Order_model.php on line 342
+[31-Aug-2019 09:40:34 Etc/GMT] PHP Fatal error:  Cannot redeclare Order_model::get_current_balance() in /home/alphafbm/public_html/Jalak_Jewels/application/models/Order_model.php on line 342

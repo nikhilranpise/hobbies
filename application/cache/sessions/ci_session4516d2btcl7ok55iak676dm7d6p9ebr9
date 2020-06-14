@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1591956544;admin_id|O:8:"stdClass":4:{s:2:"id";s:1:"1";s:5:"email";s:17:"admin@hobbies.com";s:8:"password";s:5:"admin";s:12:"date_created";s:19:"2020-06-11 17:10:36";}user_id|O:8:"stdClass":5:{s:7:"user_id";s:1:"2";s:4:"name";s:11:"Virat Kohli";s:5:"email";s:15:"virat@gmail.com";s:8:"password";s:5:"virat";s:12:"date_created";s:19:"2020-06-12 14:24:21";}

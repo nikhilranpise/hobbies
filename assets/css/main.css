@@ -1,0 +1,59 @@
+.tablinks.active{
+        background-color: brown;
+    color: white !important;
+}
+.tablinks{
+ padding: 5px;
+}
+
+.bg-porange{
+    background-color: #f75c03;
+}
+a .bg-porange{
+  background-color: #f75c0350;  
+}
+.txt-porange{
+    color: #f75c03;
+}
+.bg-lightwine{
+    background-color: #ff4744;
+}
+.bg-lightwine:hover,
+.bg-lightwine:focus{
+    background-color: #ff3232;
+}
+.txt-lightwine{
+    color: #ff4744;
+}
+.bg-wine{
+    background-color: #d72638;
+}
+.bg-wine:hover,
+.bg-wine:focus{
+    background-color: #dd1328;
+}
+.txt-wine{
+    color: #d72638;
+}
+.bg-dpink{
+    background-color: #d90368;
+}
+.txt-dpink{
+    color: #d90368;
+}
+.bg-redpink{
+    background-color: #ff1053;
+}
+.txt-redpink{
+    color: #ff1053;
+}
+.txt-brown{
+color: #601015;  
+}
+.txt-brown:hover,
+.txt-brown:focus{
+    color:#60030a;
+}
+.fa-ico{
+    font-size: 1.5rem;
+}

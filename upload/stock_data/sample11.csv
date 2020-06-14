@@ -1,0 +1,4 @@
+sr_no,item_given_by,batch_no,product_category,product_code,quantity,gross_weight,net_weight,fg_weight,rate,amount,diamond_shape,diamond_size,diamond_quantity,diamond_pieces,diamond_weight,diamond_rate,diamond_amount,handling_rate,handling_amount,making_rate,making_amount,certificate_amount,barcode,stone_pieces,stone_weight,stone_rate,stone_amount
+1,Chetan Nikhade,54321,Gold,1111,10,10,10,10,100,10000,Diamond Shape,10,10,10,10,100,10000,100,10000,100,10000,certi1,bar1,10,10,100,10000
+2,,,Gold,1111,,,,,,,,20,20,20,20,200,20000,,,,,,,20,20,200,20000
+3,,,Gold,1111,,,,,,,,,,,,,,,,,,,,30,30,300,30000
