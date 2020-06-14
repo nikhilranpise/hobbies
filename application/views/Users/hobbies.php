@@ -68,7 +68,7 @@
             <div class="modal-dialog modal-md">
             <div class="modal-content">
             <div class="modal-header">
-            <h4 class="modal-title">Add</h4>
+            <h4 class="modal-title">Add a hobby</h4>
             <button type="button" class="close" data-dismiss="modal"></button>
             </div>
             <form method="post" action="<?php echo base_url();?>hobby_add">
@@ -94,7 +94,7 @@
             <div class="modal-dialog modal-md">
             <div class="modal-content">
             <div class="modal-header">
-            <h4 class="modal-title">Edit</h4>
+            <h4 class="modal-title">Edit hobby</h4>
             <button type="button" class="close" data-dismiss="modal"></button>
             </div>
             <form method="post" action="<?php echo base_url();?>hobby_edit">
